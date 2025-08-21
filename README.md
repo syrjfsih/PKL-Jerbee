@@ -3,7 +3,6 @@
 > 🚀 **Kelompok PKL-Jerbee**  
 > 📌 Kumpulan project PKL  
 
-
 ## 🔗 Project Link  
 
 - 🍽️ **TwoNCafe** — by **Syirajfasih**  
@@ -12,5 +11,5 @@
 - 👔 **Dress Oss** — by **Deas**  
   👉 [Dress Oss](https://github.com/Muhamaddeas/dress_oss.git)  
 
-- 🔥 **Power Pulse** — by **Thyo**  
-  👉 [Power Pulse](https://github.com/Muhamaddeas/dress_oss.git)  
+- ⚡ **Power Pulse** — by **Thyo**  
+  👉 [Power Pulse](https://github.com/syrjfsih/PKL-Jerbee.git)
