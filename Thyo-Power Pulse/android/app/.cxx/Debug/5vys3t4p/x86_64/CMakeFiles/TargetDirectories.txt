@@ -1,0 +1,2 @@
+C:/power_pulsee/android/app/.cxx/Debug/5vys3t4p/x86_64/CMakeFiles/edit_cache.dir
+C:/power_pulsee/android/app/.cxx/Debug/5vys3t4p/x86_64/CMakeFiles/rebuild_cache.dir
