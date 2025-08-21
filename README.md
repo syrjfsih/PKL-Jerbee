@@ -7,7 +7,7 @@
 
 ## 🔗 Project Link  
 
-- 🍽️ **TwoNCafe** — by **Syiraj Fasih**  
+- 🍽️ **TwoNCafe** — by **Syirajfasih**  
   👉 [TwoNCafe](https://github.com/syrjfsih/TwoNCafe.git)  
 
 - 👔 **Dress Oss** — by **Deas**  
