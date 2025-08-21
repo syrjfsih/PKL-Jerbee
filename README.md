@@ -8,10 +8,10 @@
 ## 🔗 Project Link  
 
 - 🍽️ **TwoNCafe** — by **Syiraj Fasih**  
-  👉 [GitHub Repository](https://github.com/syrjfsih/TwoNCafe.git)  
+  👉 [TwoNCafe](https://github.com/syrjfsih/TwoNCafe.git)  
 
 - 👔 **Dress Oss** — by **Deas**  
-  👉 [GitHub Repository](https://github.com/Muhamaddeas/dress_oss.git)  
+  👉 [Dress Oss](https://github.com/Muhamaddeas/dress_oss.git)  
 
 - 🔥 **Power Pulse** — by **Thyo**  
-  👉 [GitHub Repository](https://github.com/Muhamaddeas/dress_oss.git)  
+  👉 [Power Pulse](https://github.com/Muhamaddeas/dress_oss.git)  
